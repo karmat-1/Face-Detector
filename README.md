@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f275a74-26b3-446b-a53b-222cd154954e" />
+<img width="1920" height="1080" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/b4d92c1b-cfeb-4e02-8782-f642034b9938" />
+
 
 # Face-Detector
 
